@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About me
+title: Chi sono
 description: About Fabrizio Giordano
-permalink: /about/
+permalink: /chi-sono/
 ---
 
 Here my [Linkedin - Fabrizio Giordano](http://www.linkedin.com/in/fabriziogiordano "Linkedin profile")
