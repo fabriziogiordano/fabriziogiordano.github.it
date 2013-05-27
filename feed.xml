@@ -8,7 +8,7 @@ layout: nil
  <link href="http://www.fabriziogiordano.it/feed.xml" rel="self"/>
  <link href="http://www.fabriziogiordano.it/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://git.fabriziogiordano.com/gh-pages</id>
+ <id>http://www.fabriziogiordano.com/gh-pages</id>
  <author>
    <name>Fabrizio Giordano</name>
    <email>giordano.fabrizio@gmail.com</email>
@@ -19,7 +19,7 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://www.fabriziogiordano.it/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://git.fabriziogiordano.com{{ post.id }}</id>
+   <id>http://www.fabriziogiordano.com/{{ post.id }}</id>
  </entry>
  {% endfor %}
 
