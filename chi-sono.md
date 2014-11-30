@@ -5,19 +5,13 @@ description: About Fabrizio Giordano
 permalink: /chi-sono/
 ---
 
-Here my [Linkedin - Fabrizio Giordano](http://www.linkedin.com/in/fabriziogiordano "Linkedin profile")
+Qui il mio profilo su [Linkedin - Fabrizio Giordano](http://www.linkedin.com/in/fabriziogiordano "Linkedin profile")
 
-Here my [Twitter - Fabrizio Giordano](http://twitter.com/fabrygio/ "Twitter profile")
+Qui il mio profilo su [Twitter - Fabrizio Giordano](http://twitter.com/fabrygio/ "Twitter profile")
 
-Here my [GitHub - Fabrizio Giordano](https://github.com/fabriziogiordano/ "Github profile")
+Qui il mio profilo su [GitHub - Fabrizio Giordano](https://github.com/fabriziogiordano/ "Github profile")
 
-Here my [Facebook - Fabrizio Giordano](http://www.facebook.com/fabriziogiordano "Facebook profile")
+Qui il mio profilo su [Facebook - Fabrizio Giordano](http://www.facebook.com/fabriziogiordano "Facebook profile")
 
 
-Here my contacts:
-
-**Email:** giordano.fabrizio [ -at- ] gmail.com
-
-**Phone:** +1 408 622 9220
-
-**Skype:** fadfdsj
+Se mi vuoi contattare scrivi a giordano.fabrizio [ -at- ] gmail.com

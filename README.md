@@ -1,4 +1,1 @@
-fabriziogiordano.github.it
-==========================
-
-Blog personale in Italiano
+Blog di Fabrizio Giordano - Versione Italiana
